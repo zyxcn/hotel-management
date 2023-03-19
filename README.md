@@ -1,23 +1,84 @@
 # hotel management 酒店管理系统
 
 #### 介绍
+
+##### 代码量：4300行
+
+
 【原创】使用java swing编写的酒店管理系统
 
-#### 软件架构
-软件架构说明
+沈阳工业大学软件开发实践 课程设计
 
+文件说明：hotel_management.sql       ---数据库备份文件
+
+hotel_management.jar                ---项目打包好的jar文件，最低要求jdk1.8
+#### 软件架构
+![img.png](image/1.png)
+![img.png](image/2.png)
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+在idea中打开即可
 
-#### 使用说明
+#### 截图
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![img.png](image/img.png)
+
+![img_1.png](image/img_1.png)
+
+![img_2.png](image/img_2.png)
+
+![img_3.png](image/img_3.png)
+
+![img_4.png](image/img_4.png)
+
+![img_5.png](image/img_5.png)
+
+![img_6.png](image/img_6.png)
+
+![img_7.png](image/img_7.png)
+
+![img_8.png](image/img_8.png)
+
+![img_9.png](image/img_9.png)
+
+![img_10.png](image/img_10.png)
+
+![img_11.png](image/img_11.png)
+
+![img_12.png](image/img_12.png)
+
+![img_13.png](image/img_13.png)
+
+![img_14.png](image/img_14.png)
+
+![img_15.png](image/img_15.png)
+
+![img_16.png](image/img_16.png)
+
+![img_17.png](image/img_17.png)
+
+![img_18.png](image/img_18.png)
+
+![img_19.png](image/img_19.png)
+
+![img_20.png](image/img_20.png)
+
+![img_21.png](image/img_21.png)
+
+![img_22.png](image/img_22.png)
+
+![img_23.png](image/img_23.png)
+
+![img_24.png](image/img_24.png)
+
+![img_25.png](image/img_25.png)
+
+![img_26.png](image/img_26.png)
+
+![img_27.png](image/img_27.png)
+
+![img_28.png](image/img_28.png)
 
 #### 参与贡献
 
