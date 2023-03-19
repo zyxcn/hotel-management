@@ -9,10 +9,20 @@
 
 沈阳工业大学软件开发实践 课程设计
 
-文件说明：hotel_management.sql       ---数据库备份文件
+邮箱：cnzyx@sut.edu.cn
 
-hotel_management.jar                ---项目打包好的jar文件，最低要求jdk1.8
+文件说明：
+```    
+    hotel_management.sql       ---数据库备份文件
+    hotel_management.jar       ---项目打包好的jar文件，最低要求jdk1.8
+```
 #### 软件架构
+数据库库名：hotel_management
+
+数据库库名：root
+
+数据库密码：root
+
 ![img.png](image/1.png)
 ![img.png](image/2.png)
 
